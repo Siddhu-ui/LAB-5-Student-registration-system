@@ -1,5 +1,5 @@
-## Name : RUDESH KANNA R
-## Reg.No: 212223233002
+## Name : Siddharth S
+## Reg.No: 212224040317
 # LAB-5-Student-registration-system
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
